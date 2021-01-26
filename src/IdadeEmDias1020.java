@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class IdadeEmDias {
+public class IdadeEmDias1020 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in).useLocale(Locale.US);
 
